@@ -37,8 +37,6 @@ import android.net.Uri;
 import android.os.Build;
 import android.webkit.MimeTypeMap;
 
-import io.github.pwlin.cordova.plugins.fileopener2.FileProvider;
-
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.PluginResult;
